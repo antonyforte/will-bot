@@ -1,0 +1,79 @@
+[
+  {
+    "date": "24/07",
+    "time": "21h",
+    "day_of_week": "Quinta-Feira",
+    "teams": ["🫀", "🏴‍☠️"],
+    "phase": "1ª Fase - 2x2"
+  },
+  {
+    "date": "26/07",
+    "time": "18h",
+    "day_of_week": "Sábado",
+    "teams": ["🫀", "👑"],
+    "phase": "1ª Fase - 2x2"
+  },
+  {
+    "date": "27/07",
+    "time": "15h",
+    "day_of_week": "Domingo",
+    "teams": ["☠", "👑", "🫀"],
+    "phase": "2ª Fase - 3x3"
+  },
+  {
+    "date": "27/07",
+    "time": "18h",
+    "day_of_week": "Domingo",
+    "teams": ["🫀", "🏴‍☠️", "☠"],
+    "phase": "2ª Fase - 3x3"
+  },
+  {
+    "date": "31/07",
+    "time": "20h",
+    "day_of_week": "Quinta-Feira",
+    "teams": ["☠", "🫀"],
+    "phase": "2ª Fase - 3x3"
+  },
+  {
+    "date": "02/08",
+    "time": "19h",
+    "day_of_week": "Sábado",
+    "teams": ["🏴‍☠️", "👑", "🫀"],
+    "phase": "2ª Fase - 3x3"
+  },
+  {
+    "date": "03/08",
+    "time": "18h",
+    "day_of_week": "Domingo",
+    "teams": ["👑", "☠", "🫀", "🏴‍☠️"],
+    "phase": "3ª Fase - 4x4"
+  },
+  {
+    "date": "24/07",
+    "time": "19h",
+    "day_of_week": "Quinta-Feira",
+    "teams": ["👑", "☠"],
+    "phase": "1ª Fase - 2x2"
+  },
+  {
+    "date": "25/07",
+    "time": "20h",
+    "day_of_week": "Sexta-Feira",
+    "teams": ["🏴‍☠️", "👑"],
+    "phase": "1ª Fase - 2x2"
+  },
+  {
+    "date": "26/07",
+    "time": "15h",
+    "day_of_week": "Sábado",
+    "teams": ["☠", "🏴‍☠️"],
+    "phase": "1ª Fase - 2x2"
+  },
+  {
+    "date": "01/08",
+    "time": "20h",
+    "day_of_week": "Sexta-Feira",
+    "teams": ["👑", "🏴‍☠️", "☠"],
+    "phase": "2ª Fase - 3x3"
+  }
+]

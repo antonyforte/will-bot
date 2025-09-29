@@ -1,0 +1,16 @@
+{
+  "captain": [
+    {
+      "username": "WillTurner_bot",
+      "first_name": "Will",
+      "is_crewmember": true
+    }
+  ],
+  "leader": [
+    {
+      "username": "npmboy",
+      "first_name": "Antony",
+      "is_crewmember": true
+    }
+  ]
+}
